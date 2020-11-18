@@ -1,6 +1,6 @@
 ### Hi there, I'm Sourav 👋
 
-## I'm a Student, Deep Learning and Data Science Enthusiast!!
+## I'm a Student, Deep Learning and Data Science Enthusiast!! from India
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to build my career in data science
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sourav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sourav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -22,10 +22,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souravcoder99&show_icons=true&hide_border=true?theme=nightowl" />
+<details>
+  <summary> GitHub Stats</summary>
+
+  <img align="left" alt="Sourav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souravcoder99&show_icons=true&hide_border=true&theme=nightowl" />
 
 </details>
 
