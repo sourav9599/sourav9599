@@ -15,7 +15,7 @@
 <a href="https://twitter.com/Sourav_coder">
   <img align="left" alt="Sourav Mohanty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sourav-mohanty-06623772/">
+<a href="https://www.linkedin.com/in/sourav-mohanty/">
   <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Codegasm1999">
