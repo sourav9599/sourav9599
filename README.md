@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=souravcoder99.souravcoder99)
 
 ## I'm a Student, Deep Learning and Data Science Enthusiast!! from India
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/souravcoder99/souravcoder99/main/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to build my career in data science
