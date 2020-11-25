@@ -25,7 +25,7 @@
 
 ###  GitHub Stats :
 
-<img align="left" alt="Sourav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souravcoder99&show_icons=true&hide_border=true&theme=nightowl" />
+<img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souravcoder99&show_icons=true&hide_border=true&theme=nightowl" />
 
 
 
