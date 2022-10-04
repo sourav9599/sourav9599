@@ -1,10 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=souravcoder99.souravcoder99)
+<h1 align="center">Hi, I'm Sourav Mohanty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=sourav9599.sourav9599)
 
 ## I'm a Student, Deep Learning and Data Science Enthusiast!! from India
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/souravcoder99/souravcoder99/main/code.gif?raw=true" width="500" height="320" />
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to build my career in data science
 - 🥅 Future Goals: Contribute more to open source projects!
 - ⚡ Hard-core FPS Gamer
@@ -47,7 +48,7 @@
 
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav9599&theme=radical)]()
 
-<img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav9599&show_icons=true&line_height=27&count_private=true&title_color=ff1a8c&text_color=e6e6e6&icon_color=ff1a8c&bg_color=1d1f21" alt="Sourav's GitHub Stats" />
+<!-- <img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav9599&show_icons=true&line_height=27&count_private=true&title_color=ff1a8c&text_color=e6e6e6&icon_color=ff1a8c&bg_color=1d1f21" alt="Sourav's GitHub Stats" /> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourav9599&theme=radical)](https://git.io/streak-stats)
 
