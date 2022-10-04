@@ -42,17 +42,23 @@
 
 <br />
 
-### 📈 My GitHub Stats :
 
-<p >
+
+### 📈 My GitHub Stats :
+<hr>
+<div align="center">
 
 [![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav9599&theme=radical)]()
 
-<!-- <img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav9599&show_icons=true&line_height=27&count_private=true&title_color=ff1a8c&text_color=e6e6e6&icon_color=ff1a8c&bg_color=1d1f21" alt="Sourav's GitHub Stats" /> -->
+<p align="center">
+<!-- <img alt="Sourav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav9599&show_icons=true&line_height=27&count_private=true&title_color=ff1a8c&text_color=e6e6e6&icon_color=ff1a8c&bg_color=1d1f21" alt="Sourav's GitHub Stats" /> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourav9599&theme=radical)](https://git.io/streak-stats)
-
 </p>
+
+<img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg">
+
+</div>
 
 
 
