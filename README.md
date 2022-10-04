@@ -13,19 +13,16 @@
 ### Connect with me:
 
 <a href="https://twitter.com/Sourav_coder">
-  <img align="left" alt="Sourav Mohanty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sourav Mohanty | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sourav-mohanty/">
-  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/Codegasm1999">
-  <img align="left" alt="Sourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Sourav's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/_codegasm_/">
-  <img align="left" alt="Sourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sourav's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/optimistic_af">
-  <img align="left" alt="Sourav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Sourav's Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
 </a>
 
 <br>
@@ -46,7 +43,17 @@
 
 ### 📈 My GitHub Stats :
 
-><p align = "center"><img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souravcoder99&show_icons=true&hide_border=true&theme=nightowl" />
+<p >
+
+[![GitHub Contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav9599&theme=radical)]()
+
+<img align="center" alt="Sourav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav9599&show_icons=true&line_height=27&count_private=true&title_color=ff1a8c&text_color=e6e6e6&icon_color=ff1a8c&bg_color=1d1f21" alt="Sourav's GitHub Stats" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourav9599&theme=radical)](https://git.io/streak-stats)
+
+</p>
+
+
 
 
 
