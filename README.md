@@ -6,9 +6,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/souravcoder99/souravcoder99/main/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to build my career in data science
 - 🥅 Future Goals: Contribute more to open source projects!
-- ⚡ Hard-core FPS Gamer
 
 
 ### Connect with me:
