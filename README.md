@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sourav9599.sourav9599)
 
-## I'm a Student, Deep Learning and Data Science Enthusiast!! from India
+## I'm a Software Engineer from India
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/souravcoder99/souravcoder99/main/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning everything.
